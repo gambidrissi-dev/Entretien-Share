@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Entretien Updates</title>
+    <link>https://github.com/gambidrissi-dev/Entretien-Share</link>
+    <description>Mises à jour de Entretien</description>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+<h3>Entretien : les pages Entretien et Apps sorties de PowerMac</h3>
+<p>Elles demandent ce que le Mac App Store interdit (launchctl, mot de passe administrateur, désinstallation d'autres apps). Code repris sans changement de fond ; un .dmg ouvert avec Entretien s'installe comme sur l'île.</p>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 12:31:04 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Entretien-Share/releases/download/v1.0.0/Entretien-1.0.0.zip"
+                 sparkle:edSignature="sYxZUzcDM1HaZBDvzSSELfZAMdZlps6MQMZ2V7exW0yvlzL+hFUvEOFeUZZUb69Ts1pntrL+crK43y0dBQFjCQ=="
+                 length="2155527"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
